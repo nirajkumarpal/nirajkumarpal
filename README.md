@@ -92,12 +92,10 @@ I enjoy transforming data into practical solutions, developing end-to-end ML app
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajkumarpal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajkumarpal&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajkumarpal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
----
+
 
 
 ## 🐍 Contribution Graph
